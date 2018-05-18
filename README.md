@@ -22,7 +22,7 @@
 
 <img src='https://github.com/zky847798418/uclound/blob/master/uclound/uclound-main6.jpg?raw=true'>
 
-<img src=''>
+
 
 
 <img src='https://github.com/zky847798418/uclound/blob/master/uclound/uclound-play2.jpg?raw=true'>
